@@ -1,0 +1,11 @@
+body{
+    color:black
+}
+
+section{
+    background-color: antiquewhite;
+    padding-top: 15%;
+    padding-bottom: 10%;
+    display: flex;
+    justify-content: center;
+}
